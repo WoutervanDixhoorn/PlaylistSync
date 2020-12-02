@@ -1,0 +1,29 @@
+{
+  "name": "playlist-sync",
+  "version": "1.0.0",
+  "description": "Syncronises playlist between Tidal and Spotify",
+  "main": "app.js",
+  "scripts": {
+    "run": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WoutervanDixhoorn/PlaylistSync.git"
+  },
+  "keywords": [
+    "Playlist",
+    "Synchronize",
+    "Spotify",
+    "Tidal",
+    "Music"
+  ],
+  "author": "Wouter van Dixhoorn",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WoutervanDixhoorn/PlaylistSync/issues"
+  },
+  "homepage": "https://github.com/WoutervanDixhoorn/PlaylistSync#readme",
+  "dependencies": {
+    "spotify-web-api-node": "^5.0.0"
+  }
+}
